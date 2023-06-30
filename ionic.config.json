@@ -1,0 +1,8 @@
+{
+  "name": "Rest-O-Ranch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f053ff82"
+}
